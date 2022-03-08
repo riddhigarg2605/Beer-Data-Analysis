@@ -1,1 +1,5 @@
 # Beer-Data-Analysis
+
+We have to analyse the Beer Volume data and see how the growth pattern is for the dependent variable i.e Volume_KHL (Volume of the beer in hectolitres). 
+For the first step of the problem i.e. building data insights: We have several independent - both numerical and nominal variables in the dataset given. We can perform Exploratory data analysis to understand how the Volume varies based on different situations, for example: if the temperature is high, is the beer consumption also high?; if the GDP of the country of interest (here Argentina) goes down, does it affect the beer consumption; is the beer consumption higher on certain days like during the FIFA season and so on.
+For the second step of our problem, i.e model building, we have to analyse the given time series data to build short term and long term forecasts. Taking into consideration the predicted value for the next six months and two years (along with the data insights), we can suggest some sales strategies to be followed by the leaders to increase the volume of beer sold.
